@@ -59,7 +59,7 @@ html {
 }
 
 body {
-  color: #515151;
+  color: #222222;
   background-color: #fff;
   overflow-y: scroll;
   -webkit-text-size-adjust: 100%;
@@ -215,7 +215,7 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7a7a7a;
+  color: #515151;
   border-left: .25rem solid #e5e5e5;
 }
 blockquote p:last-child {
@@ -275,7 +275,7 @@ tbody tr:nth-child(odd) th {
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
-  color: #717171;
+  color: #515151;
   background-color: #f9f9f9;
 }
 
