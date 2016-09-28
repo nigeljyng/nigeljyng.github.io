@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -79,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 3.25rem;
 }
 
@@ -179,81 +179,35 @@ a.sidebar-nav-item:focus {
 
 /* Custom themes */
 .theme-nigel .sidebar{
-    background-color: #0E0B16;
+    background-color: #000;
 }
 .theme-nigel .content a,
 .theme-nigel .related-posts li a:hover{
-    color: #FF3B3F;
+    color: #391EFF;
 }
 
-/* Red */
-.theme-base-08 .sidebar {
-  background-color: #ac4142;
-}
-.theme-base-08 .content a,
-.theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
+.page-title, .post-title, .post-title a {
+    /* commented out the same section in poole */
+    color: #391EFF;
 }
 
-/* Orange */
-.theme-base-09 .sidebar {
-  background-color: #d28445;
+/* placeholders */
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  font-size: 16px;
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
 }
-.theme-base-09 .content a,
-.theme-base-09 .related-posts li a:hover {
-  color: #d28445;
+::-moz-placeholder { /* Firefox 19+ */
+  font-size: 16px;
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
 }
-
-/* Yellow */
-.theme-base-0a .sidebar {
-  background-color: #f4bf75;
+:-ms-input-placeholder { /* IE 10+ */
+  font-size: 16px;
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
 }
-.theme-base-0a .content a,
-.theme-base-0a .related-posts li a:hover {
-  color: #f4bf75;
-}
-
-/* Green */
-.theme-base-0b .sidebar {
-  background-color: #90a959;
-}
-.theme-base-0b .content a,
-.theme-base-0b .related-posts li a:hover {
-  color: #90a959;
+:-moz-placeholder { /* Firefox 18- */
+  font-size: 16px;
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
 }
 
-/* Cyan */
-.theme-base-0c .sidebar {
-  background-color: #75b5aa;
-}
-.theme-base-0c .content a,
-.theme-base-0c .related-posts li a:hover {
-  color: #75b5aa;
-}
+/* end custom theme */
 
-/* Blue */
-.theme-base-0d .sidebar {
-  background-color: #6a9fb5;
-}
-.theme-base-0d .content a,
-.theme-base-0d .related-posts li a:hover {
-  color: #6a9fb5;
-}
-
-/* Magenta */
-.theme-base-0e .sidebar {
-  background-color: #aa759f;
-}
-.theme-base-0e .content a,
-.theme-base-0e .related-posts li a:hover {
-  color: #aa759f;
-}
-
-/* Brown */
-.theme-base-0f .sidebar {
-  background-color: #8f5536;
-}
-.theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
-  color: #8f5536;
-}
