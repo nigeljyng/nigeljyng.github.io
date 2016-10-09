@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Great Wall bit
+title: Great Wall Bit
 author: Nigel Ng
 tags: comedy
 ---
@@ -20,8 +20,7 @@ My wife was nice enough to overlay the audio of the bit on top of the trailer, c
 
 <br />
 I guess that's what happens when China has a rising middle class who love Hollywood movies,
-but Hollywood isn't willing to go "full Chinese" yet. Gotta ease them in a little bit, you know?
-But Rush Hour was so successful! The world is ready for Asians I think.
+but Hollywood isn't willing to go full-blown Chinese yet. Gotta ease them in a little bit, you know?
 
 ---
 You can check out more of my wife's work [here](http://www.evamsteiner.com/){:target="_blank"}
