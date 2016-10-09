@@ -5,8 +5,7 @@ author: Nigel Ng
 tags: news
 ---
 
-Hey guys, welcome to my blog! Please check back sometime.
-
+Hey guys, welcome to my blog! 
 I'll be sharing news, thoughts, and other comedy content so check back soon!
 
 ---
