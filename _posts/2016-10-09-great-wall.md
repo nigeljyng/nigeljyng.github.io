@@ -15,3 +15,5 @@ developed into one of my favourite bits to do.
 My wife was nice enough to overlay the audio of the bit on top of the trailer, check it out!
 
 [![Great Wall]({{ site.url }}/assets/greatwall-still.png)](https://www.youtube.com/watch?v=djeWKPVcpTM){:target="_blank"}
+
+You can check out more of her work [here](http://www.evamsteiner.com/){:target="_blank"}
