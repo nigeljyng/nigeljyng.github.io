@@ -14,6 +14,14 @@ developed into one of my favourite bits to do.
 
 My wife was nice enough to overlay the audio of the bit on top of the trailer, check it out!
 
-[![Great Wall]({{ site.url }}/assets/greatwall-still.png)](https://www.youtube.com/watch?v=djeWKPVcpTM){:target="_blank"}
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/djeWKPVcpTM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
-You can check out more of her work [here](http://www.evamsteiner.com/){:target="_blank"}
+<br />
+I guess that's what happens when China has a rising middle class who love Hollywood movies,
+but Hollywood isn't willing to go "full Chinese" yet. Gotta ease them in a little bit, you know?
+But Rush Hour was so successful! The world is ready for Asians I think.
+
+---
+You can check out more of my wife's work [here](http://www.evamsteiner.com/){:target="_blank"}
