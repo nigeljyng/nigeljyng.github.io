@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 1em;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 1em;
   }
 }
 
@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 20rem;
     text-align: left;
   }
 }
@@ -90,6 +90,7 @@ html {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
+  font-size: 1.2em;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -109,7 +110,7 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    bottom: 1rem;
+    bottom: 2rem;
     left:   1rem;
   }
 }
@@ -128,16 +129,16 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
-    margin-left: 20rem;
+    max-width: 40rem;
+    margin-left: 22rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
-    margin-right: 4rem;
+    margin-left: 28rem;
+    margin-right: 8rem;
   }
 }
 

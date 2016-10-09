@@ -49,14 +49,14 @@ body {
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 1em;
   line-height: 1.5;
 }
-@media (min-width: 38em) {
+/*@media (min-width: 38em) {
   html {
     font-size: 20px;
   }
-}
+}*/
 
 body {
   color: #222222;
@@ -260,7 +260,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   font-weight: 300;
 }
 
