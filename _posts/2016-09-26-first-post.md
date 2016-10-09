@@ -2,12 +2,16 @@
 layout: post
 title: First Post
 author: Nigel Ng
+tags: news
 ---
 
-Testing things out.
+Hey guys, welcome to my blog! Please check back sometime.
 
-> Quotes look like this.
+I'll be sharing news, thoughts, and other comedy content so check back soon!
 
-```
-code section
-```
+---
+_for the curious_:
+
+It's powered by [Jekyll](https://jekyllrb.com/), hosted on [Github pages](https://pages.github.com/),
+with some tinkering to the theme to make it look more consistent with [my website](http://nigelngcomedy.com/).
+
