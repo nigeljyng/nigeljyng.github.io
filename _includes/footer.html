@@ -1,28 +1,15 @@
-<script>
-  window.ALGOLIA_CONFIG = {
-    'applicationId': '{{ site.algolia.application_id }}',
-    'indexName': '{{ site.algolia.index_name }}',
-    'apiKey': '{{ site.algolia.read_only_api_key }}',
-    'baseurl': '{{ site.baseurl }}'
-  }
-</script>
-<script id="algolia__template" type="text/template">
-{% raw %}
-  <div class="algolia__result">
-    <a class="algolia__result-link" href="{{ full_url }}#algolia:{{ css_selector }}">{{{ _highlightResult.title.value }}}</a>
-    {{#posted_at}}
-    <div class="algolia__result-date">{{ posted_at_readable }}</div>
-    {{/posted_at}}
-    <div class="algolia__result-text">{{{ _highlightResult.text.value }}}</div>
-  </div>
-{% endraw %}
-</script>
-<script id="algolia__template--no-results" type="text/template">
-  No results found.
-</script>
+<!-- Begin MailChimp Signup Form -->
+    <div class="mc_embed_signup content">
+    <form action="//nigelngcomedy.us13.list-manage.com/subscribe/post?u=2e999a9265e773a53b15c98fd&amp;id=aca997384a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div class="mc_embed_signup_scroll">
+        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2e999a9265e773a53b15c98fd_aca997384a" tabindex="-1" value=""></div>
+        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+        </div>
+    </form>
+    </div>
+<!--End mc_embed_signup-->
 <script src="//cdn.jsdelivr.net/jquery/2.1.4/jquery.min.js"></script>
-<script src="//cdn.jsdelivr.net/algoliasearch/3.6.0/algoliasearch.min.js"></script>
-<script src="//cdn.jsdelivr.net/algoliasearch.helper/2.1.0/algoliasearch.helper.min.js"></script>
 <script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js"></script>
 <script src="//cdn.jsdelivr.net/momentjs/2.10.3/moment.min.js"></script>
-<script src="{{ site.baseurl }}/public/js/algolia.js"></script>

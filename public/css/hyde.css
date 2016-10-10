@@ -203,10 +203,6 @@ a.sidebar-nav-item:focus {
     color: #391EFF;
 }
 
-/*`:focus` is linked to `:hover` for basic accessibility */
-a:hover,
-a:focus {
-/* No `:visited` state is required by default (browsers will use `a`) */
 a {
   color: #391EFF;
   text-decoration: none;
@@ -252,6 +248,32 @@ a:focus {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
 }
 
+/* Mailchimp styling */
+input[type=submit]{
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+}
+.mc_embed_signup form {text-align:center; padding:10px 0 20px 0;}
+.mc-field-group { display: inline-block; } /* positions input field horizontally */
+.mc_embed_signup input.email {font-size: 16px; border: 1px;  -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; color: #000; background-color: #fbfbfb; box-sizing:border-box; height:31px; padding: 0px 0.4em; display: inline-block; margin: 0; width:300px; }
+.mc_embed_signup label {display:block; font-size:16px; padding-bottom:10px; font-weight:700;}
+.mc_embed_signup .clear {display: inline-block;} /* positions button horizontally in line with input */
+.mc_embed_signup .button {font-size: 16px; border: 1px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; letter-spacing: .03em; color: #fbfbfb; background-color: #391eff; box-sizing:border-box; height:32px; line-height:32px; padding:0 18px; display: inline-block; margin: 0; transition: all 0.23s ease-in-out 0s;}
+.mc_embed_signup .button:hover {background-color:#fe0000; cursor:pointer;}
+.mc_embed_signup div#mce-responses {float:left; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%;margin: 0 5%; clear: both;}
+.mc_embed_signup div.response {margin:1em 0; padding:1em .5em .5em 0; font-weight:bold; float:left; top:-1.5em; z-index:1; width:80%;}
+.mc_embed_signup #mce-error-response {display:none;}
+.mc_embed_signup #mce-success-response {color:#529214; display:none;}
+.mc_embed_signup label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}
+@media (max-width: 767px) {
+    .mc_embed_signup input.email {width:50%; margin-bottom:5px; }
+    .mc_embed_signup .clear {display: block; width: 100% }
+    .mc_embed_signup .button {width: 50%; margin:5px;  }
+    .mc_embed_signup .hide_on_small {display: none !important;}
+}
+
+#mc_embed_signup{background:transparent; clear:left; width:100%;}
+
+/* end Mailchimp styling */
 /* 
  * end custom theme 
  */
