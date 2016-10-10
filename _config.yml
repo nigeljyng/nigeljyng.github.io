@@ -19,6 +19,7 @@ exclude:          [vendor]
 author:
   name:           'Nigel Ng'
   url:            http://nigelngcomedy.com
+  twitter:  MrNigelNg
 # Thanks to @mdo for the original theme
 # author:
 #   name:           'Mark Otto'
@@ -32,9 +33,8 @@ version:          2.1.0
 #github:
     #repo:         https://github.com/algolia/algoliasearch-jekyll-hyde
 
-# Algolia
 gems:
-  - algoliasearch-jekyll  # for search
+  - jekyll-seo-tag
 
 algolia:
   application_id: 'NDOG9IVXQ5'
