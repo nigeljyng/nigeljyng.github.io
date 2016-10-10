@@ -1,0 +1,6 @@
+- slug: news
+  name: News
+  description: "Updates on what I'm doing in my comedy career."
+- slug: comedy
+  name: Comedy
+  description: "Funny things"
