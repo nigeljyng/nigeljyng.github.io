@@ -184,7 +184,6 @@ a.sidebar-nav-item:focus {
 }
 
 
-
 /*
  * Themes
  *
@@ -206,6 +205,13 @@ a.sidebar-nav-item:focus {
 .page-title, .post-title, .post-title a {
     /* commented out the same section in poole */
     color: #391EFF;
+}
+
+/*`:focus` is linked to `:hover` for basic accessibility */
+a:hover,
+a:focus {
+    text-decoration: none;
+    color: #fe0000;
 }
 
 /* placeholders */
