@@ -251,6 +251,7 @@ a:focus {
 /* Mailchimp styling */
 input[type=submit]{
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+  -webkit-appearance: none;
 }
 .mc_embed_signup form {text-align:center; padding:10px 0 20px 0;}
 .mc-field-group { display: inline-block; } /* positions input field horizontally */
