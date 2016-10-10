@@ -36,14 +36,6 @@ version:          2.1.0
 gems:
   - jekyll-seo-tag
 
-algolia:
-  application_id: 'NDOG9IVXQ5'
-  index_name: 'blog'
-  read_only_api_key: '01d92471b9169b9c6c71d3815a66b93b'
-  excluded_files:
-    - 404.html
-    - index.html
-
 kramdown:
   input: GFM
   hard_wrap: false
