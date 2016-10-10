@@ -110,7 +110,7 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
@@ -187,20 +187,16 @@ a.sidebar-nav-item:focus {
 /*
  * Themes
  *
- * As of v1.1, Hyde includes optional themes to color the sidebar and links
- * within blog posts. To use, add the class of your choosing to the `body`.
+ * Custom theme to make it look consistent with my main site
+ *
  */
-
-/* Base16 (http://chriskempson.github.io/base16/#default) */
-
-/* Custom themes */
 .theme-nigel .sidebar{
     background-color: #000;
 }
-.theme-nigel .content a,
-.theme-nigel .related-posts li a:hover{
-    color: #391EFF;
-}
+/*.theme-nigel .content a,*/
+/*.theme-nigel .related-posts li a:hover{*/
+    /*color: #391EFF;*/
+/*}*/
 
 .page-title, .post-title, .post-title a {
     /* commented out the same section in poole */
@@ -210,9 +206,33 @@ a.sidebar-nav-item:focus {
 /*`:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
+/* No `:visited` state is required by default (browsers will use `a`) */
+a {
+  color: #391EFF;
+  text-decoration: none;
+}
+a strong {
+  color: inherit;
+}
+
+/*`:focus` is linked to `:hover` for basic accessibility */
+a:hover,
+a:focus {
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
     text-decoration: none;
     color: #fe0000;
 }
+
+.related-posts li a:hover {
+  color: #fe0000;
+  text-decoration: none;
+}
+.related-posts li a:hover small {
+  color: inherit;
+}
+
 
 /* placeholders */
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
@@ -232,5 +252,7 @@ a:focus {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
 }
 
-/* end custom theme */
+/* 
+ * end custom theme 
+ */
 
