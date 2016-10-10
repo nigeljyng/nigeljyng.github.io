@@ -270,7 +270,20 @@ input[type=submit]{
     .mc_embed_signup .button {width: 50%; margin:5px;  }
     .mc_embed_signup .hide_on_small {display: none !important;}
 }
+@media (min-width: 48em) {
+  .mc_embed_signup {
+    max-width: 40rem;
+    margin-left: 22rem;
+    margin-right: 2rem;
+  }
+}
 
+@media (min-width: 64em) {
+  .mc_embed_signup {
+    margin-left: 28rem;
+    margin-right: 8rem;
+  }
+}
 #mc_embed_signup{background:transparent; clear:left; width:100%;}
 
 /* end Mailchimp styling */
