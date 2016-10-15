@@ -81,7 +81,8 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 20rem;
+    min-width: 18rem;
+    width: 25vw;  /* 25% of screen width, but at least 18 rem */
     text-align: left;
   }
 }
@@ -134,9 +135,7 @@ a.sidebar-nav-item:focus {
 
 /* Container
  *
- * Align the contents of the site above the proper threshold with some margin-fu
- * with a 25%-wide `.sidebar`.
- * Sidebar is 20 rem.
+ * Sidebar is 25% screen width, min 18 rem.
  */
 
 .content {
@@ -147,16 +146,16 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) { /*48*/
   .content {
     max-width: 40rem;
-    margin-left: 22rem;
-    margin-right: 2rem;
+    margin-left: 21rem;
+    margin-right: 3rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
     max-width: 45rem;
-    margin-left: 25rem;
-    margin-right: 5rem;
+    margin-left: 29vw;
+    margin-right: 4vw;
   }
 }
 
