@@ -136,6 +136,7 @@ a.sidebar-nav-item:focus {
  *
  * Align the contents of the site above the proper threshold with some margin-fu
  * with a 25%-wide `.sidebar`.
+ * Sidebar is 20 rem.
  */
 
 .content {
@@ -143,7 +144,7 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 48em) { /*48*/
   .content {
     max-width: 40rem;
     margin-left: 22rem;
@@ -153,8 +154,9 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 28rem;
-    margin-right: 8rem;
+    max-width: 45rem;
+    margin-left: 25rem;
+    margin-right: 5rem;
   }
 }
 
@@ -187,7 +189,7 @@ a.sidebar-nav-item:focus {
 /*
  * Themes
  *
- * Custom theme to make it look consistent with my main site
+ * Custom css to make it look nicer and consistent with my main site
  *
  */
 .theme-nigel .sidebar{
@@ -229,6 +231,11 @@ a:focus {
   color: inherit;
 }
 
+.center-image  /* so images can be centered */
+{
+    margin: 0 auto;
+    display: block;
+}
 
 /* placeholders */
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
