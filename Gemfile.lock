@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     blankslate (2.1.2.4)
     celluloid (0.16.0)
@@ -73,4 +73,4 @@ DEPENDENCIES
   jekyll-seo-tag
 
 BUNDLED WITH
-   1.13.2
+   1.13.3
