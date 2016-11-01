@@ -199,6 +199,7 @@ a.sidebar-nav-item:focus {
     /*color: #391EFF;*/
 /*}*/
 
+
 .page-title, .post-title, .post-title a {
     /* commented out the same section in poole */
     color: #391EFF;
@@ -234,6 +235,12 @@ a:focus {
 {
     margin: 0 auto;
     display: block;
+}
+/* for image captions */
+img + em {
+    display: block;
+    text-align: center;
+    color: #585858;
 }
 
 /* placeholders */
