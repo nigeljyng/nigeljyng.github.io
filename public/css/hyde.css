@@ -136,8 +136,8 @@ a.sidebar-nav-item:focus {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
-      text-align: justify;
-    text-justify: inter-word;
+      /*text-align: justify;*/
+    /*text-justify: inter-word;*/
 }
 
 @media (min-width: 48em) { /*48*/
@@ -238,6 +238,7 @@ img + em {
     display: block;
     text-align: center;
     color: #585858;
+    font-size: 0.9rem;
 }
 
 /* placeholders */
