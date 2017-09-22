@@ -136,7 +136,7 @@ a.sidebar-nav-item:focus {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
-      /*text-align: justify;*/
+      /*text-align: justify;*/  /* DO NOT JUSTIFY. Bad practice */
     /*text-justify: inter-word;*/
 }
 
