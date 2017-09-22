@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', 'Open Sans', sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -244,24 +244,24 @@ img + em {
 /* placeholders */
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
   font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 ::-moz-placeholder { /* Firefox 19+ */
   font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 :-ms-input-placeholder { /* IE 10+ */
   font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 :-moz-placeholder { /* Firefox 18- */
   font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 /* Mailchimp styling */
 input[type=submit]{
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   -webkit-appearance: none;
 }
 .mc_embed_signup form {text-align:center; padding:10px 0 20px 0;}
