@@ -18,13 +18,13 @@ I stayed in a flat with fellow showcase comics, one of whom was Danny from Dudle
 
 As with most festivals where young people with disposable income congregate, the fringe had street food everywhere. A Westernised version of it. Clean, nicely packaged street food that promises not to give you diarrhoea afterwards. I love street food. I grew up on it. It’s the common man’s food in Malaysia. But holy shit the street food here is all hip and cool and instagram-worthy. I saw a food truck selling creme brulee. CREME BRULEE! That’s not the spirit of street food! No Malaysian kid’s walking around going, “I could really do with a French burnt custard right now. Ooh look he torches it right in front of us!” (I can’t even type out the accent marks in brulee. If your food has accent marks in its name then that’s not street food. That’s posh restaurant food, just served from the back of a van.)
 
-![Their instagram page. I can't even](https://d2mxuefqeaa7sj.cloudfront.net/s_3A4F01F02E08B38A0C8376661DFF1E39FFFED66E01A4D3D4C0482EC2B2249710_1504003456409_Screen+Shot+2017-08-29+at+11.43.11.png)
+![Their instagram page. I can't even](https://d2mxuefqeaa7sj.cloudfront.net/s_3A4F01F02E08B38A0C8376661DFF1E39FFFED66E01A4D3D4C0482EC2B2249710_1504003456409_Screen+Shot+2017-08-29+at+11.43.11.png){: .center-image}
 *Their instagram page. I can't even*
 
 
-I went to a museum up here and saw two babies that looked like they’ve been through a lot. Wh knew the renaissance was a tough time for infants.
+I went to a museum up here and saw two babies that looked like they’ve been through a lot. Who knew the renaissance was a tough time for infants.
 
-![I've seen some shit. Me too, twin brother, me too.](https://d2mxuefqeaa7sj.cloudfront.net/s_3A4F01F02E08B38A0C8376661DFF1E39FFFED66E01A4D3D4C0482EC2B2249710_1503932599826_DHHJamlXkAEblCD.jpg)
+![I've seen some shit. Me too, twin brother, me too.](https://d2mxuefqeaa7sj.cloudfront.net/s_3A4F01F02E08B38A0C8376661DFF1E39FFFED66E01A4D3D4C0482EC2B2249710_1503932599826_DHHJamlXkAEblCD.jpg){: .center-image}
 *I've seen some shit. Me too, twin brother, me too.*
 
 

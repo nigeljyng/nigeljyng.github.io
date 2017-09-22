@@ -230,7 +230,7 @@ a:focus {
 
 .center-image  /* so images can be centered */
 {
-    margin: 0 auto;
+    margin: 0.5rem auto;
     display: block;
 }
 /* for image captions */
@@ -239,6 +239,7 @@ img + em {
     text-align: center;
     color: #585858;
     font-size: 0.9rem;
+    font-weight: 300;
 }
 
 /* placeholders */
