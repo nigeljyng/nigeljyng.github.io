@@ -2,7 +2,7 @@
 layout: post
 title: Newsletter - Sept 2017
 author: Nigel Ng
-tags: comedy
+tags: newsletter
 ---
 
 Hello newsletter people and also new joiners to my list!

@@ -2,7 +2,7 @@
 layout: post
 title: Sometimes you can just judge a gig by its poster...
 author: Nigel Ng
-tags: comedy
+tags:
 ---
 
 I was looking through the pictures in my phone today when I found this:
@@ -15,8 +15,8 @@ poster for the first time (posted next to the venue's bathroom) I felt my heart 
 Justifiably so, because a few moments later I was up on stage bombing my ass off.
 
 How do you even design this on purpose?? Like someone just sat in front of a computer
-and was like, "how do I create an abomination?". This shit looked like it was made back when Microsoft 
-Word still had that paper clip talking to you. 
+and was like, "how do I create an abomination?". This shit looked like it was made back when Microsoft
+Word still had that paper clip talking to you.
 
 ![paperclip]({{site.baseufl}}/assets/paperclip-meme.jpg){: .center-image}
 

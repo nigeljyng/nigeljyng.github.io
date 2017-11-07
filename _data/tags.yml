@@ -1,6 +1,9 @@
 - slug: news
   name: News
   description: "Updates on what I'm doing in my comedy career."
-- slug: comedy
-  name: Comedy
-  description: "Funny things"
+- slug: newsletter
+  name: Newsletter
+  description: "Newsletters I send out to subscribers to my mailing list. Sign up to get it in your inbox the moment it's written!"
+- slug: bits
+  name: Bits
+  description: "Bits and bobs of funny things"

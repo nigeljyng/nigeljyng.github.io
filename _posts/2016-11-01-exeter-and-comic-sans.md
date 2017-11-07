@@ -2,7 +2,7 @@
 layout: post
 title: Exeter and Comic Sans
 author: Nigel Ng
-tags: comedy
+tags:
 ---
 
 I started writing this from the only trendy coffee shop in Exeter, the [exploding
