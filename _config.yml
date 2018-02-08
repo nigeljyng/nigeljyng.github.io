@@ -9,8 +9,8 @@ permalink:        pretty
 # Setup
 author: Nigel Ng
 title:            BLOG
-tagline:          "nigel's comedy ramblings"
-description:      "thoughts about standup and life"
+tagline:          "mildly funny thoughts"
+description:      "mildly funny thoughts"
 url:              http://blog.nigelngcomedy.com
 baseurl:          ''
 # Travis will install Bundler dependencies in ./vendor, so we need to exclude it
