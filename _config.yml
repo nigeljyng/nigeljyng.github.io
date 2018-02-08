@@ -7,30 +7,32 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
+author: Nigel Ng
 title:            BLOG
 tagline:          "nigel's comedy ramblings"
-description:      "nigel's comedy ramblings"
+description:      "thoughts about standup and life"
 url:              http://blog.nigelngcomedy.com
 baseurl:          ''
 # Travis will install Bundler dependencies in ./vendor, so we need to exclude it
 # otherwise Jekyll will try to build it (and fail)
 exclude:          [vendor]
 
-author:
-  name:           'Nigel Ng'
-  url:            http://nigelngcomedy.com
-  twitter:  MrNigelNg
+# for seo
+twitter:
+    username: MrNigelNg
+
+social:
+  links:
+    - https://twitter.com/MrNigelNg
+    - https://www.instagram.com/mrnigelng/
+    - https://www.facebook.com/nigelngcomedy
 
 paginate:         2
 paginate_path:    "/page:num/"
 
-# Custom vars
 version:          2.1.0
 
-#github:
-    #repo:         https://github.com/algolia/algoliasearch-jekyll-hyde
-
-gems:
+plugins:
   - jekyll-seo-tag
 
 kramdown:
