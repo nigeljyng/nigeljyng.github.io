@@ -10,7 +10,7 @@ permalink:        pretty
 author: Nigel Ng
 title:            BLOG
 tagline:          "Nigel Ng"
-description:      "mildly funny thoughts"
+description:      "standup comedy and other nonsense"
 url:              http://blog.nigelngcomedy.com
 baseurl:          ''
 # Travis will install Bundler dependencies in ./vendor, so we need to exclude it
