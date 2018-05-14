@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Newsletter - Jan 2018
+title: Newsletter - Jan 2018 - Cuba
 author: Nigel Ng
 tags: newsletter
 ---

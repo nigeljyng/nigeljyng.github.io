@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Newsletter - March 2018
+title: Newsletter - March 2018 - Restaurant Reviews
 author: Nigel Ng
 tags: newsletter
 ---
 
 Hello newsletter people! And also, welcome to the new joiners who signed up at my shows in London and Leicester! Hope you enjoyed the show. Before I jump into anything: tickets are on sale now for my show at [Brighton fringe](https://www.brightonfringe.org/whats-on/nigel-ng-malaysian-sensation-work-in-progress-123827/) (24-26 May), please come if you live around that area! And as always I have gigs at other clubs [on my site](http://nigelngcomedy.com/#gigs). And will be doing my first weekend at the London Comedy Store [March 22-24](http://thecomedystore.co.uk/london/whats-on/?dateweeks=Mon+12+Mar+2018&next=). Exciting!
 
-What a crazy week it’s been! Two storms hit the UK - Storm Emma and the Beast from the East (which will be my porn name if I ever pursue that field). With all the train delays and motorway closures I think the snow has wiped out half the British economy, but I find it’s also created so many more opportunities for small talk. 
+What a crazy week it’s been! Two storms hit the UK - Storm Emma and the Beast from the East (which will be my porn name if I ever pursue that field). With all the train delays and motorway closures I think the snow has wiped out half the British economy, but I find it’s also created so many more opportunities for small talk.
 
 Oh recently I’ve started talking about this Malaysian restaurant that’s been getting horrible reviews in my set and I’ve gotten people asking me if it’s real. It is! Here’s a screenshot of some of the reviews:
 

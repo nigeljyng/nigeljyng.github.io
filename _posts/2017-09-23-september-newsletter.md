@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Newsletter - Sept 2017
+title: Newsletter - September 2017
 author: Nigel Ng
 tags: newsletter
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Newsletter - Nov 2017
+title: Newsletter - November 2017 - Dublin, Piracy
 author: Nigel Ng
 tags: newsletter
 ---
